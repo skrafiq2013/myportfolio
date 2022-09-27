@@ -17,8 +17,8 @@ function DostiDetails() {
     
         {/* <h1> DostiMart</h1> */}
         {/* <h2>DostiMart(Sept 2020 – Present) – Front End Developer </h2> */}
-        <div>
-        <p className="details">
+        <div p className="details">
+         
         <h2>My Work</h2>
           <ul className='list-group list-group-flush'>
             <li className='list-group-item'>Built entire purchase module to support back-end team for placing order.</li>
@@ -31,21 +31,29 @@ function DostiDetails() {
             <li className='list-group-item'>Sometimes helped back-end team with SQL queries</li>
           </ul>
         	
-
-        </p>
+ 
         </div>
-        <div>
-          <p className='details'>
+        <div className='details'>
+          
             <h2>Tech Stack</h2>
             <ul className="list-group">
               <li className="list-group-item d-flex justify-content-between align-items-center">HTML
               <span className="badge bg-primary rounded-pill">12</span></li>
-              <li>CSS</li>
-              <li>JavaScript</li>
-              <li>ReactJs</li>
-              <li>Bootstrap</li>
+              <li  className="list-group-item d-flex justify-content-between align-items-center">
+                CSS
+              <span className="badge bg-primary rounded-pill">10</span>
+              </li>
+              <li className="list-group-item d-flex justify-content-between align-items-center">JavaScript
+              <span className="badge bg-primary rounded-pill">10</span>
+
+              </li>
+              <li className="list-group-item d-flex justify-content-between align-items-center">ReactJs
+              <span className="badge bg-primary rounded-pill">10</span>
+              </li>
+              <li className="list-group-item d-flex justify-content-between align-items-center">Bootstrap
+              <span className="badge bg-primary rounded-pill">10</span>
+              </li>
             </ul>
-          </p>
         </div>
         </div>
 
