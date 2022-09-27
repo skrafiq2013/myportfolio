@@ -38,17 +38,17 @@ function DostiDetails() {
             <h2>Tech Stack</h2>
             <ul className="list-group">
               <li className="list-group-item d-flex justify-content-between align-items-center">HTML
-              <span className="badge bg-primary rounded-pill">12</span></li>
+              <span className="badge bg-primary rounded-pill">9</span></li>
               <li  className="list-group-item d-flex justify-content-between align-items-center">
                 CSS
               <span className="badge bg-primary rounded-pill">10</span>
               </li>
               <li className="list-group-item d-flex justify-content-between align-items-center">JavaScript
-              <span className="badge bg-primary rounded-pill">10</span>
+              <span className="badge bg-primary rounded-pill">8</span>
 
               </li>
               <li className="list-group-item d-flex justify-content-between align-items-center">ReactJs
-              <span className="badge bg-primary rounded-pill">10</span>
+              <span className="badge bg-primary rounded-pill">8</span>
               </li>
               <li className="list-group-item d-flex justify-content-between align-items-center">Bootstrap
               <span className="badge bg-primary rounded-pill">10</span>
