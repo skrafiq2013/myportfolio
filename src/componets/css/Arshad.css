@@ -1,0 +1,28 @@
+.background{
+    background-color: #333537;
+}
+
+.subnavbar-right{
+    justify-content: right;
+}
+
+.navbar-nav>li>a{
+ color: rgb(118, 218, 109);
+ margin: 20px;
+}
+
+.navbar-brand{
+    padding: 0;
+}
+.navbar{
+    padding: 0px;
+}
+
+/* @media screen and (min-width: 480px) {
+    
+} */
+
+.heading{
+    color:rgb(108, 192, 122)
+}
+
