@@ -6,7 +6,7 @@ import own from './images/mypage.png'
 function MyRecent() {
   return (
     
-    <div className="container-fluid mt-5">
+    <div  id="section1" className="container-fluid mt-5">
     <h1 className="display-4 recent-work">My Recent Work</h1>
         <div className='row my-work'>  
 

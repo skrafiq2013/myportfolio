@@ -5,7 +5,7 @@ import './css/Arshad.css'
 
 function Header(){
     return(
-
+<body className="body-scrollspy " data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
 <nav className="navbar navbar-expand-sm navbar-dark background">
   <div className="container-fluid">
     <a className="navbar-brand" href="/" ><img src={logo} width={80}></img></a>
@@ -18,7 +18,7 @@ function Header(){
           <a className="nav-link" href="/"><h4>Home</h4></a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="/"><h4>Projects</h4></a>
+          <a className="nav-link" href="#section1"><h4>Projects</h4></a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="/about"><h4>About Me</h4></a>
@@ -27,6 +27,7 @@ function Header(){
     </div>
   </div>
 </nav>
+</body>
 );
 }
 export default Header;

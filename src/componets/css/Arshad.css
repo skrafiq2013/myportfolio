@@ -2,6 +2,11 @@
     background-color: #333537;
 }
 
+.body-scrollspy {
+    position: relative;
+}
+
+
 .subnavbar-right{
     justify-content: right;
 }
