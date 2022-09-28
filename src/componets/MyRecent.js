@@ -2,7 +2,7 @@ import React from 'react'
 import './css/Project.css' 
 import logo from './images/DostiMart.png';
 import fact from './images/factance.png'
-import own from './images/mypage.png'
+import own from './images/portfol.png'
 function MyRecent() {
   return (
     

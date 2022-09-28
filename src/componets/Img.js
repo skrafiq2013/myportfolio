@@ -1,12 +1,12 @@
 import React from 'react'
 import hero from './images/hero-devices.svg'
-import ars from './images/rafique.jpg'
+import raf from './images/Rafiqskatin.jpg'
 
 function Img() {
   return (
     <div>
       <div>
-      <img src={ars}  width={350} className="mt-5 img-fluid "></img>
+      <img src={raf}  width={350} className="mt-5 img-fluid "></img>
       </div>
     
     <div >

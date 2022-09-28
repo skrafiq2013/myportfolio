@@ -3,9 +3,9 @@ import React from 'react'
 function Me() {
   return (
     <div>
-      <div className='mt-5 container mt-5 container-1'>
+      <div className=' container mt-3 container-1'>
         <div className='pt-4'>
-        <h1 className=' text-white '>Designer, Frontend Developer & Mentor</h1>
+        <h1 >Designer, Frontend Developer</h1>
         </div>
         <div className="mt-5 text-white rounded">
           {/* <h1>Jumbotron Example</h1>  */}

@@ -7,20 +7,20 @@ function Footer() {
 
   <div className="container p-4 pb-0">
    <section className="mb-4">
-      {/* <!-- Facebook --> */}
+      {/* <!-- Facebook -->
       <a className="btn btn-outline-light btn-floating m-1" href="/" role="button"
         ><i className="bi bi-facebook"></i></a>
 
       
 
-      {/* <!-- Google --> */}
+      <!-- Google -->
       <a className="btn btn-outline-light btn-floating m-1" href="/" role="button"
-        ><i className="bi bi-google"></i></a>
+        ><i className="bi bi-google"></i></a> */}
 
       
 
       {/* <!-- Linkedin --> */}
-      <a className="btn btn-outline-light btn-floating m-1" href="/" role="button"
+      <a className="btn btn-outline-light btn-floating m-1" href="https://www.linkedin.com/in/rafiq-ahmed-shaikh-15a39919/" role="button"
         ><i className="bi bi-linkedin"></i></a>
 
       {/* <!-- Github --> */}
