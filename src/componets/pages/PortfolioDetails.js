@@ -3,7 +3,7 @@ import React from 'react'
 import Header from '../Header'
 import Footer from '../Footer'
 import '../css/Detail.css'
-import dosti from '../images/fact.png'
+import dosti from '../images/portfol.png'
 // import './css/Arshad.css'
 
 function PortfolioDetails() {

@@ -3,3 +3,11 @@
     text-align: justify;
     padding:40px;
 }
+.foot {
+    text-decoration: none;
+}
+
+.head {
+    color: rgb(1, 98, 72);
+    font-size: large;
+}

@@ -1,4 +1,5 @@
 import React from 'react'
+import './css/Detail.css'
 
 function Footer() {
   return (
@@ -34,7 +35,7 @@ function Footer() {
   {/* <!-- Copyright --> */}
   <div className="text-center p-3" >
     © 2022 Copyright:
-    <a className="text-white" href="/">RAFIQAHMED</a>
+    <a className="text-white foot" href="/">RAFIQAHMED</a>
   </div>
   {/* <!-- Copyright --> */}
 </footer>
