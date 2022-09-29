@@ -7,11 +7,13 @@ import MyRecent from './MyRecent'
 import Myself from './Myself'
 import Resume from './Resume'
 import Work from './Work'
+import './css/Detail.css'
 
 function Home() {
   return (
     <div>
         <Header />
+        <div className="back">
         <Me />
         <Img />
         <Myself />
@@ -19,6 +21,7 @@ function Home() {
         <Work />
         <MyRecent />
         <Footer />
+        </div>
     </div>
   )
 }

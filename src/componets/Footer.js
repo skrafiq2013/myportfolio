@@ -21,7 +21,7 @@ function Footer() {
       
 
       {/* <!-- Linkedin --> */}
-      <a className="btn btn-outline-light btn-floating m-1" href="https://www.linkedin.com/in/rafiq-ahmed-shaikh-15a39919/" role="button"
+      <a className="btn btn-outline-light btn-floating m-1" href="https://www.linkedin.com/in/rafiq-ahmed-shaikh-15a39919/" target="_blank"role="button"
         ><i className="bi bi-linkedin"></i></a>
 
       {/* <!-- Github --> */}

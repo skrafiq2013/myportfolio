@@ -7,6 +7,7 @@ function AboutUs() {
   return (
     <div>
       <Header />
+      <div className='cont-back'>
       <div className='container'>
       <div>
           <img src={rafiq}  width={240} height={250} className="mt-5 img-fluid "></img>
@@ -99,7 +100,8 @@ function AboutUs() {
 
 </div>
  
-</div> <br />
+      </div> <br />
+      </div>
       <Footer />
     </div>
   )
