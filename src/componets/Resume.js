@@ -28,7 +28,7 @@ function Resume() {
                 <div className="column"><span className="fa-stack fa-2x"><i className="fa-solid fa-circle fa-stack-2x has-text-success"></i><i className="fa-light fa-square-terminal fa-stack-1x has-text-dark"></i></span>
                 <h3 className="mt-5">Frontend Developer</h3>
                 <p>I like to code things from scratch, and enjoy bringing ideas to life in the browser.</p>
-                <p className="list-title has-text-primary has-text-weight-normal p-text">Languages I speak:</p>
+                <p className="list-title has-text-primary has-text-weight-normal p-text">Languages :</p>
                 <p>HTML, CSS, JavaScript,  JQuery, ReactJs, TypeScript, Sass, Redux </p>
                 <p className="list-title has-text-primary has-text-weight-normal p-text text-center">Dev Tools:</p>
                 <ul>
