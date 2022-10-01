@@ -23,7 +23,7 @@ function App() {
       
       <Route path="/pages/AboutUs" component={AboutUs} /> */}
        <BrowserRouter>
-        <Routes path="/" element={<Home />}>
+        <Routes >
           <Route index element={<Home />} />
           <Route path="about" element={<AboutUs />} />
           <Route path="dostimart" element={<DostiDetails />} />
