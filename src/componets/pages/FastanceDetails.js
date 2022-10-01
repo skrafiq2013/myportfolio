@@ -21,13 +21,13 @@ function FastanceDetails() {
         <h2>My Work</h2>
           <ul className='list-group list-group-flush'>
             <li className='list-group-item'>Designed the webpage module.</li>
-            {/* <li className='list-group-item'></li> */}
-            <li className='list-group-item'>Consumed multiple REST APIs and attached with existing and new components to display product, order, purchase, many more listing pages.</li>
+            <li className='list-group-item'>With the help of senior member's build the webpage.</li>
+            <li className='list-group-item'>Consumed multiple REST APIs and attached with existing and new components to display product.</li>
             {/* <li className='list-group-item'>Added JQuery validations on multiple modules as place order, add purchase and other part of admin panel.</li> */}
-            <li className='list-group-item'>Helped team member with developing login/register components using Material UI & Bootstrap Frameworks.</li>
+            <li className='list-group-item'>Helped team member with developing components using Material UI & Bootstrap Frameworks.</li>
             <li className='list-group-item'>Collaboration with team members with Git and aid solving bugs.</li>
             <li className='list-group-item'>Optimized application with SEO for maximum speed and scalability by adding React Router components, maintaining clean and reusable code practices.</li>
-            <li className='list-group-item'>Sometimes helped back-end team with SQL queries</li>
+            {/* <li className='list-group-item'>Sometimes helped back-end team with SQL queries</li> */}
           </ul>
         	
  

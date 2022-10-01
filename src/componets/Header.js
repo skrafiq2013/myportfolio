@@ -8,7 +8,7 @@ function Header(){
 <body className="body-scrollspy " data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
 <nav className="navbar navbar-expand-sm navbar-dark background">
   <div className="container-fluid">
-    <a className="navbar-brand" href="/" ><img src={logo} width={80}></img></a>
+    <a className="navbar-brand" href="/" ><img src={logo} width={80} className="rounded-circle"></img></a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
       <span className="navbar-toggler-icon"></span>
     </button>

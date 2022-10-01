@@ -14,7 +14,7 @@ function Resume() {
                 <p className="list-title has-text-primary has-text-weight-normal p-text">Things I enjoy in trading </p>
                 <p>Intraday, BTST, Swing Trading, Long term holding.</p>
                 <p className="list-title has-text-primary has-text-weight-normal p-text">App used :</p>
-                <ul>
+                <ul className="res-cent">
                   <li>Zerodha</li>
                   <li>Angel</li>
                   <li>Tradingview</li>
@@ -31,7 +31,7 @@ function Resume() {
                 <p className="list-title has-text-primary has-text-weight-normal p-text">Languages :</p>
                 <p>HTML, CSS, JavaScript,  JQuery, ReactJs, TypeScript, Sass, Redux </p>
                 <p className="list-title has-text-primary has-text-weight-normal p-text text-center">Dev Tools:</p>
-                <ul>
+                <ul className="res-cent">
                   <li>VS Code</li>
                   <li>Bootstrap</li>
                   <li>Github</li>

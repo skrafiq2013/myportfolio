@@ -8,36 +8,27 @@ function Footer() {
 
   <div className="container p-4 pb-0">
    <section className="mb-4">
-      {/* <!-- Facebook -->
-      <a className="btn btn-outline-light btn-floating m-1" href="/" role="button"
-        ><i className="bi bi-facebook"></i></a>
-
-      
-
-      <!-- Google -->
-      <a className="btn btn-outline-light btn-floating m-1" href="/" role="button"
-        ><i className="bi bi-google"></i></a> */}
-
-      
+  
+  
 
       {/* <!-- Linkedin --> */}
       <a className="btn btn-outline-light btn-floating m-1" href="https://www.linkedin.com/in/rafiq-ahmed-shaikh-15a39919/" target="_blank"role="button"
         ><i className="bi bi-linkedin"></i></a>
 
       {/* <!-- Github --> */}
-      <a className="btn btn-outline-light btn-floating m-1" href="/" role="button"
+      <a className="btn btn-outline-light btn-floating m-1" href="https://github.com/skrafiq2013" target="_blank" role="button"
         ><i className="bi bi-github"></i></a>
     </section>
-    {/* <!-- Section: Social media --> */}
+  
   </div>
-  {/* <!-- Grid container --> */}
+  
 
   {/* <!-- Copyright --> */}
   <div className="text-center p-3" >
-    © 2022 Copyright:
-    <a className="text-white foot" href="/">RAFIQAHMED</a>
+    © 2022 Copyright: Rafiq Ahmed Shaikh
+   
   </div>
-  {/* <!-- Copyright --> */}
+  
 </footer>
     </div>
   )
