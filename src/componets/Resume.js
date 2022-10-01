@@ -6,21 +6,21 @@ import './css/Resume.css'
 function Resume() {
     return (
         <section className="d-flex justify-content-center">
-        <div className="row d-flex justify-content-between"  >
+        <div className="row d-flex justify-content-around"  >
             <div className="card col-md-3"   >
             <div className="column"><span className="fa-stack fa-2x"><i className="fa-solid fa-circle fa-stack-2x has-text-success"></i><i className="fa-light fa-layer-plus fa-stack-1x has-text-dark"></i></span>
-                <h3 className="mt-5">Designer</h3>
-                <p>I value simple content structure, clean design patterns, and thoughtful interactions.</p>
-                <p className="list-title has-text-primary has-text-weight-normal p-text">Things I enjoy designing:</p>
-                <p>UX, UI, Web, Apps, Logos</p>
-                <p className="list-title has-text-primary has-text-weight-normal p-text">Design Tools:</p>
+                <h3 className="mt-5">Enthusiastic</h3>
+                <p>I am Passionate about to invest, Intraday, Swing trading in the Stock Market </p>
+                <p className="list-title has-text-primary has-text-weight-normal p-text">Things I enjoy in trading </p>
+                <p>Intraday, BTST, Swing Trading, Long term holding.</p>
+                <p className="list-title has-text-primary has-text-weight-normal p-text">App used :</p>
                 <ul>
-                  <li>Affinity Designer</li>
-                  <li>Figma</li>
-                  <li>Font Awesome</li>
-                  <li>Pen &amp; Paper</li>
-                  <li>Sketch</li>
-                  <li>Webflow</li>
+                  <li>Zerodha</li>
+                  <li>Angel</li>
+                  <li>Tradingview</li>
+                  <li>Stockedge</li>
+                  {/* <li>Sketch</li>
+                  <li>Webflow</li> */}
                 </ul>
               </div>
             </div>    

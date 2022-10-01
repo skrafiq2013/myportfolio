@@ -17,7 +17,8 @@ justify-content: start;
 
 .my-work{
     display:flex;
-    justify-content: center;
+    
+    justify-content: space-evenly;
 }
 .recent-work {
     color:rgb(55, 241, 9);
