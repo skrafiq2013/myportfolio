@@ -76,27 +76,22 @@ function AboutUs() {
     </div>
   </div>
 
-  {/* <div className="accordion-item">
-    <h2 className="accordion-header" id="headingFour">
-      <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-        Tech Stacks
+  <div className="accordion-item">
+    <h2 className="accordion-header" id="heading4">
+      <button className="accordion-button collapsed head" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+        Connect with me
       </button>
     </h2>
-    <div id="collapseFour" className="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+    <div id="collapse4" className="accordion-collapse collapse" aria-labelledby="heading4" data-bs-parent="#accordionExample">
       <div className="accordion-body details" >
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-        <li>ReactJs</li>
-        <li>Bootstrap</li>
-        <li>Github</li>
-        <li>Redux</li>      
+        I will be happy to talk you. Feel free to contact me. <br />
+        <a href="https://www.linkedin.com/in/rafiq-ahmed-shaikh-15a39919" target="_blank" className="btn btn-primary linkedin">LinkedIn</a>
+        <a href="mailto: skrafiq2013@gmail.com" target="_blank" className="btn btn-primary gmail">Gmail</a>
+        <a href="https://github.com/skrafiq2013" target="_blank" className="btn btn-primary github">GitHub</a>
         
-      </ul>
       </div>
     </div>
-  </div> */}
+  </div>
 
 </div>
  

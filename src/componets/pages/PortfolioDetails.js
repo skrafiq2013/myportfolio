@@ -20,12 +20,15 @@ function PortfolioDetails() {
       {/* <h2>DostiMart(Sept 2020 – Present) – Front End Developer </h2> */}
       <div p className="details">
        
-      <h2>My Work</h2>
+      <h2 >My Work</h2>
         <ul className='list-group list-group-flush'>
-          <li className='list-group-item'>Built entire Portfolio website using ReactJs & Bootstrap.</li>
-          <li className='list-group-item'>Used Bootsrap Containers and its all classes</li>
-          <li className='list-group-item'>Complete website is on ReactJs only.</li>
-          <li className='list-group-item'>Daily Upload codes on Github</li>
+          <li className='list-group-item'>Built entire portfolio website using ReactJs & Bootstrap.</li>
+          <li className='list-group-item'>Used Bootsrap containers and its classes</li>
+          <li className='list-group-item'>Its very hard to choose and modify containers for making responsive website</li>
+          <li className='list-group-item'>Complete website is made on ReactJs only.</li>
+          <li className='list-group-item'>Daily upload codes on Github</li>
+          <li className='list-group-item'>After completing my portfolio website, My confidence increased.</li>
+          
           {/* <li className='list-group-item'></li>
           <li className='list-group-item'></li> */}
           <li className='list-group-item'>Optimized application with SEO for maximum speed and scalability by adding React Router components, maintaining clean and reusable code practices.</li>

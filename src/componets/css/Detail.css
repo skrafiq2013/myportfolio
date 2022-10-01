@@ -18,3 +18,20 @@
 .back {
     background-color: #8c4747;
 }
+
+.gmail, .linkedin, .github {
+    margin: 2px; 
+    border: none;
+}
+
+.gmail{
+    background-color: #c50e01;
+}
+
+.linkedin{
+    background-color: rgb(16, 16, 148);
+}
+
+.github{
+    background-color: rgb(84, 75, 75);
+}
