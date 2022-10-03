@@ -3,7 +3,7 @@ import React from 'react'
 function Me() {
   return (
     <div>
-      <div className=' container mt-3 container-1'>
+      <div className=' container  container-1'>
         <div className='pt-4'>
         <h1 >Frontend Developer</h1>
         </div>
